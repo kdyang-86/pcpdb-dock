@@ -1,0 +1,10 @@
+{
+  "ambiguous": {"KCX": ["KCX"]},
+  "residue_templates": {
+    "KCX": {
+      "smiles": "C(=O)C([H])(N[H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])N([H])C(=O)O[H]",
+      "atom_name": ["C", "O", "CA", "HA", "N", "H", "CB", "HB2", "HB3", "CG", "HG2", "HG3", "CD", "HD2", "HD3", "CE", "HE2", "HE3", "NZ", "HZ", "CX", "OQ2", "OQ1", "HQ1"],
+      "link_labels": {"0": "C-term", "4": "N-term"}
+    }
+  }
+}

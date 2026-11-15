@@ -1,0 +1,3 @@
+检查目录: C:\Users\KDYAN\scpdb\scpdb_cases
+
+没有缺少文件的 case。

@@ -1,0 +1,9 @@
+﻿配体,靶点,蛋白,case,结合能_kcal_mol,完成时间,结果目录
+medioresinol,CDK2,细胞周期蛋白依赖性激酶 2,1oir_1,-9.205,2026-10-30 22:44:49,docking/1oir_1_medioresinol
+medioresinol,HIV-1 蛋白酶,HIV-1 蛋白酶,1hsg_1,-8.629,2026-10-30 22:44:18,docking/1hsg_1_medioresinol
+medioresinol,翻译起始因子 IF2γ,翻译起始因子 IF2 γ 亚基,2pmd_1,-8.127,2026-10-30 22:45:14,docking/2pmd_1_medioresinol
+medioresinol,ABL1,酪氨酸蛋白激酶 ABL1,1iep_1,-7.436,2026-10-30 22:44:32,docking/1iep_1_medioresinol
+cyclohexane,ABL1,酪氨酸蛋白激酶 ABL1,1iep_1,-5.001,2026-10-30 22:16:27,docking/1iep_1_cyclohexane
+cyclohexane,CDK2,细胞周期蛋白依赖性激酶 2,1oir_1,-4.616,2026-10-30 21:32:54,docking/1oir_cyclohexane
+cyclohexane,HIV-1 蛋白酶,HIV-1 蛋白酶,1hsg_1,-3.936,2026-10-30 22:16:24,docking/1hsg_1_cyclohexane
+cyclohexane,翻译起始因子 IF2γ,翻译起始因子 IF2 γ 亚基,2pmd_1,-3.565,2026-10-30 22:16:21,docking/2pmd_1_cyclohexane
